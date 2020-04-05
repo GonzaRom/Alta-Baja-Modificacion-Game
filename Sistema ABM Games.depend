@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1574373332 source:c:\users\vanesa\sistema abm\sistema abm games\lista.c
+	"lista.h"
+
+1574287520 c:\users\vanesa\sistema abm\sistema abm games\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
+1574294096 source:c:\users\vanesa\sistema abm\sistema abm games\menu.c
+	"menu.h"
+
+1574294096 c:\users\vanesa\sistema abm\sistema abm games\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1574894940 source:c:\users\vanesa\sistema abm\sistema abm games\users.c
+	"users.h"
+	"menu.h"
+
+1574364006 c:\users\vanesa\sistema abm\sistema abm games\users.h
+	"lista.h"
+
